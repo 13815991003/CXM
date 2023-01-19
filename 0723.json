@@ -1,6 +1,6 @@
 
 {
-"spider":"https://gitee.com/guohuowang/tvbox/raw/master/0723.jar",
+"spider":"https://gitee.com/guohuowang/tvbox/raw/master/0902.jar",
 
 
 
@@ -10,7 +10,14 @@
 "sites":[
 
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
+{"key":"LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lib","name": "LIB","type": 3,"api": "csp_Lib","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://download.kstore.space/download/3376/28.jar;md5;5AF707FB2DCF26A3942769903A81D25F"},
+{"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "Gitcafe","name": "小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "2e0da6f57c2b4e4599e7c5f190d70f99"},
+{"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://download.kstore.space/download/3376/28.jar;md5;5AF707FB2DCF26A3942769903A81D25F"},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
 
 ],
