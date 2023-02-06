@@ -10,6 +10,120 @@
 "sites":[
 
 {
+            "key": "csp_xBPQ_超清",
+            "name": "超清资源网",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "{\"分类url\":\"https://iy54321.com/cq/cc/{cateId}-{catePg}.html\", \"分类\":\"亚洲ＡＶ$yazhou#自拍偷拍$zipaitoupai#超清传媒$chaoqingchuanmei#3D动漫$3Ddongman#欧美ＡＶ$oumei#乱伦人妻$luanlunrenqi#丝袜制服$siwazhifu#直播录播$zhibolubo#SM另类$SMlinglei#超清三级$chaoqingsanji\", \"副标题\":\".duration\\\">Text</div\", \"链接\": \"href=\\\"/cq/c&&.html\\\"\", \"链接前缀\": \"https://iy54321.com/cq/cplay\", \"链接后缀\": \"-1-1.html\", \"直接播放\": \"1\" }"
+        },
+        {
+            "key": "csp_xBPQ_国产传媒",
+            "name": "国产传媒",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "{\"分类url\":\"https://iy54321.com/gccm/gg/{cateId}-{catePg}.html\", \"分类\":\"马豆原创$madouyuanchuang#91制片厂$91zhipianchang#糖心Vlgo$tangxinVlgo#天美传媒$tianmeichuanmei#蜜桃传媒$mitaochuanmei#皇家华人$huangjiahuaren#星空传媒$xingkongchuanmei#精东影业$jingdongyingye#乐播传媒$lebochuanmei#乌鸦传媒$wuyachuanmei#兔子先生$tuzixiansheng#杏吧原创$xingbayuanchuang#mini传媒$minichuanmei#大象传媒$daxiangchuanmei#开心鬼传媒$kaixinguichuanmei#PsychoPorn$PsychoPorn\", \"副标题\":\".duration\\\">Text</div\", \"链接\": \"href=\\\"/gccm/g&&.html\\\"\", \"链接前缀\": \"https://iy54321.com/gccm/gplay\", \"链接后缀\": \"-1-1.html\", \"直接播放\": \"1\" }"
+        },
+        {
+            "key": "csp_biubiu_23999",
+            "name": "23999",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/owen10086/tvbox/main/cr/23999.json",
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/commit/f664c563ef2777b4e6806535e6f092c654cc7e73/jar/bw0904.jar"
+        },
+        {
+            "key": "AList",
+            "name": "AList",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "filterable": 1,
+            "ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml"
+        },
+        {
+            "key": "泥巴",
+            "name": "泥巴",
+            "type": 3,
+            "api": "csp_Nbys",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶",
+            "type": 3,
+            "api": "csp_Doll",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
+        },
+        {
+            "key": "18AV",
+            "name": "18AV2",
+            "type": 3,
+            "api": "csp_Eighteen",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
+        },
+        {
+            "key": "Jable",
+            "name": "Jable",
+            "type": 3,
+            "api": "csp_Jable",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
+        },
+        {
+            "key": "PigAV",
+            "name": "PigAV",
+            "type": 3,
+            "api": "csp_Pig",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
+        },
+        {
+            "key": "MissAV",
+            "name": "MissAV1",
+            "type": 3,
+            "api": "csp_Miss",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
+        },
+        {
+            "key": "Supjav",
+            "name": "Supjav",
+            "type": 3,
+            "api": "csp_Supjav",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
+        },
+        {
+            "key": "Hanime",
+            "name": "Hanime",
+            "type": 3,
+            "api": "csp_Hanime",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/MF.jar"
+        },
+        
+
+{
             "key": "madouse.la",
             "name": "成功01",
             "type": 1,
