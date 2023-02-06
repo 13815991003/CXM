@@ -9,6 +9,121 @@
 
 "sites":[
 
+
+        {
+            "key": "csp_聚优直播",
+            "name": "聚优直播",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/聚优直播.json"
+        },{"key":"csp_xBPQ床吧搜索","name":"床吧搜索〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/床吧搜索.json"},{"key":"csp_xBPQ床吧","name":"床吧〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/床吧.json"},{"key":"csp_xBPQ叫床吧","name":"叫床吧〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/叫床吧.json"},
+
+{"key":"csp_xBPQAVideo","name":"AVideo〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/AVideo.json"},
+
+        {
+            "key": "csp_马豆女优",
+            "name": "马豆女优",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/马豆女优.json"
+        },
+        {
+            "key": "csp_黄瓜TV",
+            "name": "黄瓜TV",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/黄瓜TV.json"
+        },
+        {
+            "key": "csp_18AV",
+            "name": "18AV",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/18AV.json"
+        },
+        {
+            "key": "csp_GAOAA",
+            "name": "GAOAA",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/GAOAA.json"
+        },
+        {
+            "key": "csp_AVideo",
+            "name": "AVideo",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/AVideo.json"
+        },
+        {
+            "key": "csp_banan",
+            "name": "banan",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/banan.json"
+        },
+        {
+            "key": "csp_精东影业",
+            "name": "精东影业",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/精东影业.json"
+        },
+        {
+            "key": "csp_马豆映画",
+            "name": "马豆映画",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/马豆映画.json"
+        },
+        {
+            "key": "csp_性欲轮回[分类]",
+            "name": "性欲轮回[分类]",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/性欲轮回[分类].json"
+        },
+        {
+            "key": "csp_性欲轮回",
+            "name": "性欲轮回",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/性欲轮回.json"
+        },
+
 {"key": "csp_香蕉AV解说","name": "香蕉AV解说","type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉AV解说.json"},
 
 {
