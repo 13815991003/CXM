@@ -559,8 +559,6 @@
 {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"./JS/fm.jar"},
 {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"./JS/fm.jar"},
 {"key":"UpYun","name":"Up云搜","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"./JS/fm.jar"},
-{"key":"易看资源-伦理","name":"易看资源-伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"./JS/fm.jar"},
 
 
 
