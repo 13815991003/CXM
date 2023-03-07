@@ -532,6 +532,7 @@
 {"key":"csp_xBPQ_麻豆映画","name":"麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/麻豆映画.json","jar":"./JAR/Yoursmile2.jar"},
 {"key":"csp_xBPQ_香蕉视频","name":"香蕉视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/香蕉视频.json"},
 {"key":"csp_xBPQ_右手影院","name":"右手影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/右手影院.json"},
+{"key":"csp_xBPQ_色花堂","name":"色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/色花堂.json","jar":"./JAR/xBPQ_0111.jar"},
 
 
 {"key":"push_agent","name":"推送|云盘|磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"./JS/fm.jar"}
