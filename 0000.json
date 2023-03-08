@@ -14,7 +14,15 @@
 
 "sites":[
 
-{"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
+{
+            "key": "Nkdy",
+            "name": "🎞️难看电影",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
         
 ],
 
