@@ -14,9 +14,14 @@
 
 "sites":[
 
-{"key": "小苹果","name": "🍎主力源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"},
-{"key": "csp_Kunyu77","name": "🍎备份源一","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_CZSPP","name": "🍎备份源二","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0},
+{
+      "key": "360",
+      "name": "🌈360",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"spinder":"./jar/top98_1.jar"},
 {"key": "csp_Cokemv","name": "🍎备份源三","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
