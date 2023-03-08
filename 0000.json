@@ -10,7 +10,7 @@
 
 { "key": "csp_QQ", "name": "企鹅（SP）", "type": 3, "api": "csp_QQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./3tai.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
 { "key": "csp_MGTV", "name": "芒果（SP）", "type": 3, "api": "csp_Mgtv", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./3tai.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
-{ "key": "csp_IQIYI", "name": "奇艺（SP）", "type": 3, "api": "csp_IQIYI", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./3tai.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
+{ "key": "csp_IQIYI", "name": "奇艺（SP）", "type": 3, "api": "csp_IQIYI", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./3tai.jar;md5;8912c907f7381dd4e39802637b71f2e5"}
 
 
 ],
