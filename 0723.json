@@ -13,6 +13,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key": "小苹果","name": "🍎小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"},
 {"key":"csp_Tkys","name":"天空影视〔SP〕","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key" : "drpy_js_超前点播","name" : "🎯超前点播","type" : 3,"api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"},
 {"key":"AppTT","name":"图图影视〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./JAR/cs.jar"},
 {"key": "csp_CZSPP","name": "🍎备份源二","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
