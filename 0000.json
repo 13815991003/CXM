@@ -1,38 +1,7 @@
-{
-"spider":"https://gitee.com/guohuowang/tvbox/raw/master/0902.jar",
+{"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
-
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZ3VvaHVvd2FuZy90dmJveC9ibG9iL21hc3Rlci9saXZlLnR4dA=="]}]}],
-
-
-"sites":[
-
-{"key":"鲨鱼资源","name":"鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/at/json/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"秀色资源","name":"秀色资源","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xmlsea/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"蛋蛋视频","name":"蛋蛋视频","type":1,"api":"http://156.249.29.8/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},//记住本站永久地址：9206.cc
-{"key":"色窝资源","name":"色窝资源","type":1,"api":"https://sewozy25.com//api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"花魁资源","name":"花魁资源","type":1,"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"黄色资源","name":"黄色资源","type":1,"api":"http://hszy.vip/api.php/provide/vod/?ac=detail","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"辣椒资源","name":"辣椒资源","type":0,"api":"https://apilj.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"草榴视频","name":"草榴视频","type":1,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"草","name":"草","type":0,"api":"https://ios.bxguwen.com/vod/listing-0-0-0-0-0-0-2-0-0-1","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "滴滴资源","name": "滴滴资源","type": 1,"api": "https://api.ddapi.cc/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "白嫖资源","name": "白嫖资源","type": 1,"api": "https://www.kxgav.com/api/json.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key":"大香蕉资源","name":"大香蕉资源","type":1,"api":"https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"花色资源","name":"花色资源","type":1,"api":"https://api.huasezy.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"黄瓜TV资源","name":"黄瓜TV资源","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/mc/vod/xml?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"黄色资源","name":"黄色资源","type":1,"api":"https://hszy.vip/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"一本道资源","name":"一本道资源","type":1,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"青青草视频","name":"青青草视频","type":1,"api":"https://www.caiji05.com/home/cjapi/cfda/mc10/vod/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"丝袜资源","name":"丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"日本AV在线","name":"日本AV在线","type":1,"api":"https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/json","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小姐姐资源","name":"小姐姐资源","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"白嫖资源","name":"白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"环亚资源","name":"环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
-
-
-{"key":"push_agent","name":"推送|云盘|磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt","jar":"./JS/fm.jar"}
+{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1}
 
 
 ],
