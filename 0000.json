@@ -10,7 +10,7 @@
 
 
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key": "ai", "name": "🐨爱奇┃SP", "type": 3, "api": "csp_IQIYI", "quickSearch": 1, "searchable": 1, "filterable": 1},
 {"key":"csp_77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1}
 
