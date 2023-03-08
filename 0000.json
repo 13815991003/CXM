@@ -14,15 +14,7 @@
 
 "sites":[
 
-{
-            "key": "Nkdy",
-            "name": "🎞️难看电影",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }
+{"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1}
         
 ],
 
