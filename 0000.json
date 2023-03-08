@@ -1,3 +1,14 @@
+{
+"spider":"https://gitee.com/guohuowang/tvbox/raw/master/0902.jar",
+
+
+
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vZ3VvaHVvd2FuZy90dmJveC9ibG9iL21hc3Rlci9saXZlLnR4dA=="]}]}],
+
+
+"sites":[
+
+
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
