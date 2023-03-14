@@ -8,9 +8,7 @@
 
 "sites":[
 
-{"key":"快看","name":","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小苹果","name":","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_77","name":","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Anime1","name":"动漫在线｜SP","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"Auete｜SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_明明影视","name":"明明｜SP","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
