@@ -9,7 +9,9 @@
 "sites":[
 
 
-{"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LiteApple","name":"小苹果｜SP","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"drpy_js_子子影视","name":"子子｜SP","type":3,"api":"https://gitee.com/bin-shao/tvbox/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/bin-shao/tvbox/raw/master/js/DZ子子影视.js"}
 
 
