@@ -1,6 +1,6 @@
 
 {
-"spider":"https://gitea.com/z12071207/TV_JK/src/branch/master/jar/zy.jar;md5;c69b1be639443838733752102b575b06",
+"spider":"https://gitee.com/guohuowang/tvbox/blob/master/20230308.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2xpdmUudHh0"]}]}],
 
