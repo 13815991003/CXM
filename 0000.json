@@ -12,7 +12,6 @@
 	"sites":[
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"js_超前点播","name" : "超前点播","type" : 3,"api" : "https://gitea.com/z12071207/TV_JK/raw/branch/master/api_js/drpy.min.js","ext" : "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_js/超前点播.js"},
 {"key":"js_奇珍异兽","name":"爱奇艺(官)","type":3,"api":"https://gitea.com/z12071207/TV_JK/raw/branch/master/api_js/drpy2.min.js","ext":"https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_js/aiqiyi.js"},
 {"key":"js_优酷","name":"优酷(官)","type":3,"api":"https://gitea.com/z12071207/TV_JK/raw/branch/master/api_js/drpy2.min.js","ext":"https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_js/youku.js"},
