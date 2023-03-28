@@ -12,11 +12,11 @@
 
 	"sites":[
         {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/drpy.js"},
-        {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/360影视.js"},
-        {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/奇珍异兽.js"},
-        {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/腾云驾雾.js"},
-        {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/百忙无果.js"},
-        {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/菜狗.js"},
+        {"key":"drpy_js_优酷影视","name":"官源 | 优酷[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/youku.js"},
+        {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/aiqiyi.js"},
+        {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/tengxun.js"},
+        {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/mangguo.js"},
+        {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/caigou.js"},
         {"key":"drpy_js_酷云七七","name":"影视 | 酷云七七[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/酷云77.js"},
         {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/ddys.js"},
         {"key":"drpy_js_农民","name":"影视 | 农民[js]","type":3,"api":"https://gitee.com/guohuowang/tvbox/raw/master/api/drpy2.min.js","ext":"https://gitee.com/guohuowang/tvbox/raw/master/js/农民.js"},
