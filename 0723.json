@@ -153,11 +153,7 @@
         ],
 
 	"parses":[
-        {"name":"Json聚合","type":3,"url":"Demo"},
-        {"name":"Web聚合","type":3,"url":"Web"},
-        {"name":"Json并发","type":2,"url":"Parallel"},
-        {"name":"Json轮询","type":2,"url":"Sequence"},
-
+        {"name":"诺讯","url":"https://www.nxflv.com/?url=","mobile":0}, 
         {"name":"HG","url":"https://hong.hgyx.vip/addons/dp/player/index.php?url=","mobile":0},        
         {"name":"纯净1","url":"https://im1907.top/?jx=","mobile":1}, 
         {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url=","mobile":1}, 
@@ -170,7 +166,6 @@
         {"name":"1717","url":"https://ckmov.ccyjjd.com/ckmov/?url=","mobile":0}, 
         {"name":"MAO","url":"https://www.mtosz.com/m3u8.php?url=","mobile":0}, 
         {"name":"M3U8","url":"https://jx.m3u8.tv/jiexi/?url=","mobile":0}, 
-        {"name":"诺讯","url":"https://www.nxflv.com/?url=","mobile":0}, 
         {"name":"OK","url":"https://okjx.cc/?url=","mobile":1}, 
         {"name":"七哥","url":"https://jx.nnxv.cn/tv.php?url=","mobile":0}, 
         {"name":"虾米","url":"https://jx.xmflv.com/?url=","mobile":0}, 
