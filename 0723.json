@@ -1,6 +1,6 @@
 
 {
-"spider":"https://gitee.com/guohuowang/tvbox/blob/master/20230308.jar",
+"spider":"https://gitee.com/guohuowang/tvbox/blob/master/jar/fm.jar",
 
 
 
@@ -183,10 +183,11 @@
 
 
 "parses":[
-{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-# type1 聚合.并发.轮询
+
 {"name":"云you解析","type":1,"url":"https://ax.jx.cn/apii.php?url="},
 {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
