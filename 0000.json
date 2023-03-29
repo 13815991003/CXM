@@ -17,6 +17,11 @@
         {"key":"py_pansou","name":"📀盘搜py","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_pansou.py"},
         {"key":"py_alist","name":"🗂Alistpy","type":3,"api":"py_alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_alist.py"},
         {"key":"push_agent2","name":"📂阿里py","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_ali.py"},
+        {"key":"py_cctv","name": "CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_cctv.py"},
+        {"key":"py_kunyu77","name": "酷云七七","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_kunyu77.py"},
+        {"key":"py_czspp","name": "厂长影视","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_czspp.py"},
+        {"key":"py_ikan","name": "爱看","type": 3,"api": "py_ikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_ikan.py"},
+        {"key":"py_alist","name": "网盘","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_alist.py"},
         {"key":"py_bilimd","name":"Py|B站影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/B站影视.py"},
         {"key":"py_youer","name":"Py|幼儿教育","type":3,"api":"py_youer","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/幼儿教育.py"},
         {"key":"py_xiaoxue","name":"Py|小学教育","type":3,"api":"py_xiaoxue","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/小学教育.py"},
@@ -39,12 +44,6 @@
         {"key":"py_zyy","name":"Py|中医药区","type":3,"api":"py_zyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/中医药.py"},
         {"key":"py_zgwh","name":"Py|中国文化","type":3,"api":"py_zgwh","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/中国文化.py"},
         {"key":"py_xmly","name":"Py|喜马拉雅","type":3,"api":"py_xmly","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_xmly.py"},
-        
-        {"key":"py_cctv","name": "CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_cctv.py"},
-        {"key":"py_kunyu77","name": "酷云七七","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_kunyu77.py"},
-        {"key":"py_czspp","name": "厂长影视","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_czspp.py"},
-        {"key":"py_ikan","name": "爱看","type": 3,"api": "py_ikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_ikan.py"},
-        {"key":"py_alist","name": "网盘","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_py/py_alist.py"},
         //js接口
         {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"js_超前点播","name" : "超前点播","type" : 3,"api" : "https://gitea.com/z12071207/TV_JK/raw/branch/master/api_js/drpy.min.js","ext" : "https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_js/超前点播.js"},
@@ -54,30 +53,9 @@
         {"key":"js_百忙无果","name":"芒果(官)","type":3,"api":"https://gitea.com/z12071207/TV_JK/raw/branch/master/api_js/drpy2.min.js","ext":"https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_js/mangguo.js"},
         {"key":"js_菜狗","name":"搜狗(官)","type":3,"api":"https://gitea.com/z12071207/TV_JK/raw/branch/master/api_js/drpy2.min.js","ext":"https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_js/caigou.js"},
         {"key":"js_农民影视","name":"农民影视","type":3,"api":"https://gitea.com/z12071207/TV_JK/raw/branch/master/api_js/drpy2.min.js","ext":"https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_js/农民影视.js"},
-        {"key":"js_神马影视","name":"神马影视","type":3,"api":"https://gitea.com/z12071207/TV_JK/raw/branch/master/api_js/drpy2.min.js","ext":"https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_js/神马影视.js"},
-
-
-
-{"key": "百度","name": "百度云","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "大陆剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    }        
-
-],
-"parses": [
+        {"key":"js_神马影视","name":"神马影视","type":3,"api":"https://gitea.com/z12071207/TV_JK/raw/branch/master/api_js/drpy2.min.js","ext":"https://gitea.com/z12071207/TV_JK/raw/branch/master/ext_js/神马影视.js"}
+        ],
+	"parses": [
     {"name": "Json聚合","type": 3,"url": "Demo"},
     {"name": "Web聚合","type": 3,"url": "Web"},
     {"name": "默认","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
