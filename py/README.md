@@ -1,6 +1,5 @@
 {"key":"py_douban","name":"Py|纸条","type":3,"api":"py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_gitcafe.py"},
 {"key":"py_douban","name":"Py|易搜","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_yiso.py"},
-{"key":"py_douban","name":"Py|up云搜","type":3,"api":"py_yunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_yunso.py"},
 {"key":"py_zhaozy","name":"🔍找资源py","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_zhaozy.py"},
 {"key":"py_pansou","name":"📀盘搜py","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_pansou.py"},
 {"key":"py_alist","name":"🗂Alistpy","type":3,"api":"py_alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/py/py_alist.py"},
