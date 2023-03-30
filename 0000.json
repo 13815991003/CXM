@@ -11,6 +11,7 @@
 
 	"sites":[
         //json接口
+        {"key": "csp_XYQHiker皮皮鸭","name": "️🌸皮皮鸭┃嗅探","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/guohuowang/tvbox/raw/master/json/皮皮鸭.json" },
         {"key": "csp_xb_zxzj","name": "在线之家(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/guohuowang/tvbox/raw/master/json/zxzj.json"},
 
         //py接口
