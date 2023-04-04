@@ -33,6 +33,9 @@
     {"key":"js_百忙无果","name":"芒果(官)","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/mangguo.js"},
     {"key":"js_菜狗","name":"搜狗(官)","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/caigou.js"},
     {"key":"js_超前点播","name" : "超前点播","type" : 3,"api" : "https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext" : "https://jihulab.com/z12071207/tvbox/-/raw/master/js/超前点播.js"},
+    {"key":"drpy_js_酷云七七","name":"影视 | 酷云七七[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/酷云77.js"},
+    {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/ddys.js"},
+    {"key":"drpy_js_神马影视","name":"影视 | 神马影视","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/神马影视.js"},
 
     //py接口
     {"key":"py_cctv","name": "CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_cctv.py"},
