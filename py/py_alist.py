@@ -25,14 +25,27 @@ class Spider(Spider):  # 元类 默认的元类 type
     def homeContent(self, filter):
         result = {}
         cateManual = {
-            "小雅": "http://alist.xiaoya.pro",
-            "七米蓝": "https://al.chirmyram.com",
-            "梅花盘": "https://pan.142856.xyz/OneDrive",
-            "触光云盘": "https://pan.ichuguang.com",
-            "小孟资源": "https://8023.haohanba.cn/小孟丨资源大合集/无损音乐",
-            "资源小站": "https://960303.xyz/ali",
-            "轻弹浅唱": "https://g.xiang.lol",
-            "小兵组网盘视频": "https://6vv.app"
+            "Alist测试":"https://ali.liucn.repl.co",
+            "DISK":"http://124.222.140.243:8080",
+            "Lan同学":"https://l.lantongxue.repl.co",
+            "一只鱼":"https://alist.youte.ml",
+            "七米蓝":"https://al.chirmyram.com",
+            "云播放":"https://quanzi.laoxianghuijia.cn",
+            "云星":"http://alist.itvbox.cc/云星Open（不限速）",
+            "姬路白雪":"https://pan.jlbx.xyz",
+            "小兵组网盘视频":"https://6vv.app",
+            "小孟资源":"https://8023.haohanba.cn/小孟丨资源大合集/无损音乐",
+            "小雅":"http://alist.xiaoya.pro",
+            "帅盘":"https://hi.shuaipeng.wang",
+            "星梦":"https://pan.bashroot.top",
+            "晴园":"https://alist.52qy.repl.co",
+            "梅花盘":"https://pan.142856.xyz/OneDrive",
+            "神族九帝":"https://alist.shenzjd.com",
+            "米奇妙妙屋":"https://anime.mqmmw.ga",
+            "触光":"https://pan.ichuguang.com",
+            "讯维云盘":"https://pan.xwbeta.com",
+            "资源小站":"https://960303.xyz/",
+            "轻弹浅唱":"https://g.xiang.lol"
         }
         classes = []
         for k in cateManual:
