@@ -44,7 +44,13 @@
     {"key":"drpy_js_酷云七七","name":"影视 | 酷云七七[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/酷云77.js"},
     {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/ddys.js"},
     {"key":"drpy_js_神马影视","name":"影视 | 神马影视","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/神马影视.js"},
-
+        {
+            "key": "drpy_js_子子影视",
+            "name": "子子影视[js]",
+            "type": 3,
+            "api": "https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js",
+            "ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/js/子子影视.js"
+        },
     //py接口
     {"key":"py_cctv","name": "CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_cctv.py"},
     {"key":"py_kunyu77","name": "酷云七七","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_kunyu77.py"},
