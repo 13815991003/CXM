@@ -50,7 +50,7 @@
             "type": 3,
             "api": "ttps://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js",
             "ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/js/子子影视.js"
-        }
+        },
     //py接口
     {"key":"py_cctv","name": "CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_cctv.py"},
     {"key":"py_kunyu77","name": "酷云七七","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_kunyu77.py"},
