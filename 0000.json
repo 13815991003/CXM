@@ -56,7 +56,37 @@
     {"key":"drpy_js_voflix","name":"voflix[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/voflix.js"},
     {"key":"drpy_js_zxzjmtv","name":"zxzjmtv[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/zxzjmtv.js"},
     {"key":"drpy_js_酷云七七","name":"影视|酷云七七[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/酷云77.js"},
-    {"key":"drpy_js_快看","name":"影视|快看[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/快看.js"}
+    {"key":"drpy_js_快看","name":"影视|快看[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/快看.js"},
+    //py接口
+    {"key"::"py_douban","name":"Py|纸条","type":3,"api":"py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_gitcafe.py"},
+    {"key"::"py_douban","name":"Py|易搜","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_yiso.py"},
+    {"key"::"py_zhaozy","name":"🔍找资源py","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_zhaozy.py"},
+    {"key"::"py_pansou","name":"📀盘搜py","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_pansou.py"},
+    {"key"::"py_alist","name":"🗂Alistpy","type":3,"api":"py_alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_alist.py"},
+    {"key"::"push_agent2","name":"📂阿里py","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_ali.py"},
+    {"key"::"py_bilimd","name":"Py|B站影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/B站影视.py"},
+    {"key"::"py_youer","name":"Py|幼儿教育","type":3,"api":"py_youer","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/幼儿教育.py"},
+    {"key"::"py_xiaoxue","name":"Py|小学教育","type":3,"api":"py_xiaoxue","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/小学教育.py"},
+    {"key"::"py_czxx","name":"Py|初中教育","type":3,"api":"py_czxx","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/初中教育.py"},
+    {"key"::"py_gaozxx","name":"Py|高中教育","type":3,"api":"py_gaozxx","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/高中教育.py"},
+    {"key"::"py_xuqu1","name":"Py|戏曲专栏","type":3,"api":"py_xuqu1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/戏曲合集.py"},
+    {"key"::"py_TYjs1","name":"Py|体育健身","type":3,"api":"py_TYjs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/体育健身.py"},
+    {"key"::"py_xiangsh","name":"Py|相声小品","type":3,"api":"py_xiangsh","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/相声小品.py"},
+    {"key"::"py_yanchh","name":"Py|歌手专辑","type":3,"api":"py_yanchh","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/歌手合集.py"},
+    {"key"::"py_MTV","name":"Py|歌曲MTV","type":3,"api":"py_MTV","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/MTV.py"},
+    {"key"::"py_Yinl2","name":"Py|B站音乐","type":3,"api":"py_Yinl2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/音乐合集.py"},
+    {"key"::"py_yanchh","name":"Py|歌手合集","type":3,"api":"py_yanchh","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/歌手合集.py"},
+    {"key"::"py_TYjs2","name":"Py|搭讪技巧","type":3,"api":"py_TYjs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/搭讪.py"},
+    {"key"::"py_TYjs3","name":"Py|穿衣搭配","type":3,"api":"py_TYjs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/搭配.py"},
+    {"key"::"py_meishi","name":"Py|美食合集","type":3,"api":"py_meishi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/美食合集.py"},
+    {"key"::"py_FBqx","name":"Py|球队球星","type":3,"api":"py_FBqx","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/球队球星.py"},
+    {"key"::"py_Bzjc","name":"Py|软件教程","type":3,"api":"py_Bzjc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/软件教程.py"},
+    {"key"::"py_Meinvw","name":"Py|美女热舞","type":3,"api":"py_Meinvw","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/美女热舞.py"},
+    {"key"::"py_Nvtuan","name":"Py|女团热舞","type":3,"api":"py_Nvtuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/女团热舞.py"},
+    {"key"::"py_zyy","name":"Py|中医药区","type":3,"api":"py_zyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/中医药.py"},
+    {"key"::"py_zgwh","name":"Py|中国文化","type":3,"api":"py_zgwh","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/中国文化.py"},
+    {"key"::"py_xmly","name":"Py|喜马拉雅","type":3,"api":"py_xmly","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_xmly.py"}
+
 
 
 ],
