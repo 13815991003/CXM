@@ -42,7 +42,6 @@
     {"key":"drpy_js_菜狗","name":"菜狗[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/菜狗.js"},
     {"key":"drpy_js_豆瓣","name":"搜索|豆瓣[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/drpy.js"},
     {"key":"drpy_js_在线之家","name":"在线之家[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/在线之家.js"},
-    {"key":"AList","name":"AList[SP]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":0,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/alist.json"},
     {"key":"drpy_js_Auete","name":"Auete[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/Auete.js"},
     {"key":"drpy_js_cokemv","name":"cokemv[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/cokemv.js"},
     {"key":"drpy_js_fositv","name":"fositv[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/fositv.js"},
@@ -270,7 +269,6 @@
     {"key":"drpy_js_玄天","name":"影视|玄天[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/玄天.js"},
     {"key":"drpy_js_鸭奈飞","name":"影视|鸭奈飞[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/鸭奈飞.js"},
     {"key":"drpy_js_夜空","name":"影视|夜空[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/夜空.js"},
-    {"key":"drpy_js_夜空","name":"影视|夜空[js].old","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/夜空.js.old"},
     {"key":"drpy_js_伊人追剧","name":"影视|伊人追剧[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/伊人追剧.js"},
     {"key":"drpy_js_伊雪湾","name":"影视|伊雪湾[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/伊雪湾.js"},
     {"key":"drpy_js_影视工厂","name":"影视|影视工厂[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/影视工厂.js"},
@@ -338,16 +336,7 @@
     {"key":"drpy_js_曲奇动漫","name":"动漫|曲奇动漫[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/曲奇动漫.js"},
     {"key":"drpy_js_兔小贝","name":"动漫|兔小贝[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/兔小贝.js"},
     {"key":"drpy_js_怡萱动漫","name":"动漫|怡萱动漫[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/怡萱动漫.js"},
-    {"key":"drpy_js_异世界动漫","name":"动漫|异世界动漫[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/异世界动漫.js"},
-
-    //py接口
-    {"key":"py_cctv","name": "CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_cctv.py"},
-    {"key":"py_kunyu77","name": "酷云七七","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_kunyu77.py"},
-    {"key":"py_czspp","name": "厂长影视","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_czspp.py"},
-    {"key":"py_ikan","name": "爱看","type": 3,"api": "py_ikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_ikan.py"},
-    {"key":"py_gitcafe","name": "小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_gitcafe.py"},
-    {"key":"py_alist","name": "网盘","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_alist.py"}
-
+    {"key":"drpy_js_异世界动漫","name":"动漫|异世界动漫[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/异世界动漫.js"}
 
 ],
 
