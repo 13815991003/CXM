@@ -21,6 +21,7 @@
 
     //json接口
     {"key":"csp_Bili","name":"🐞哔哩综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/json/Bili.json"},
+    {"key":"皮皮鸭","name":"皮皮鸭","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/json/pipiya.json"},
 
     //js接口
     {"key":"drpy_js_奇珍异兽","name":"爱奇艺(官)","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/aiqiyi.js"},
