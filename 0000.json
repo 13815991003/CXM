@@ -13,6 +13,7 @@
 
     //网盘
     {"key":"csp_AList","name":"AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/json/Alist.json"},
+    {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/alitoken.txt","jar":"https://jihulab.com/z12071207/tvbox/-/blob/master/jar/aliyun.jar"},
     {"key":"易搜","name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/alitoken.txt","jar":"https://jihulab.com/z12071207/tvbox/-/blob/master/jar/aliyun.jar"},
     {"key":"盘搜","name": "盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/alitoken.txt","jar":"https://jihulab.com/z12071207/tvbox/-/blob/master/jar/aliyun.jar"},
     {"key":"UP云搜","name": "UP云搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"changeable": 0,"ext": "https://jihulab.com/z12071207/tvbox/-/raw/master/alitoken.txt","jar":"https://jihulab.com/z12071207/tvbox/-/blob/master/jar/aliyun.jar"},
