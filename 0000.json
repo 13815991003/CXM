@@ -25,6 +25,13 @@
  
     //js接口
     {"key":"drpy_js_奇珍异兽","name":"爱奇艺(官)","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/aiqiyi.js"},
+    {"key":"drpy_js_优酷","name":"优酷(官)","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/youku.js"},
+    {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/腾云驾雾.js"},
+    {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/百忙无果.js"},
+    {"key":"drpy_js_菜狗","name":"菜狗[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/菜狗.js"},
+    {"key":"drpy_js_酷云七七","name":"影视|酷云七七[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/酷云77.js"},
+    {"key":"drpy_js_快看","name":"影视|快看[js]","type":3,"api":"https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js","ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/js/快看.js"},
+
 
     //py接口
     {"key":"push_agent2","name":"📂阿里py","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/z12071207/tvbox/-/raw/master/py/py_ali.py"}
