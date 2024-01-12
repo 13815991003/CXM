@@ -1,28 +1,8 @@
-
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "https://jihulab.com/z12071207/tvbox/-/blob/master/jar/spider.jar",
     "comment": "多路直播配置只有蜂蜜影视支持",
-    "lives": [
-        {
-            "name": "Yoursmile7",
-            "type": 0,
-            "url": "./lives/Yoursmile7.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "JUNDIE",
-            "type": 0,
-            "url": "./lives/JUNDIE.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "fanmingming",
-            "type": 0,
-            "url": "./lives/fanmingming.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        }
-    ],
+    
     "sites": [
         {
             "key": "csp_LocalFile",
