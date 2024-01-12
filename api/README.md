@@ -1,5 +1,7 @@
 https://jihulab.com/z12071207/tvbox/-/raw/master/api/alist.min.js
+https://jihulab.com/z12071207/tvbox/-/raw/master/api/cheerio.min.js
 https://jihulab.com/z12071207/tvbox/-/raw/master/api/cili.js
+https://jihulab.com/z12071207/tvbox/-/raw/master/api/crypto-js.js
 https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy.min.js
 https://jihulab.com/z12071207/tvbox/-/raw/master/api/drpy2.min.js
 https://jihulab.com/z12071207/tvbox/-/raw/master/api/gbk.js
