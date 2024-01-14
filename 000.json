@@ -17,7 +17,8 @@
             "api": "./js/lib/drpy2.min.js",
             "ext": "./js/酷云77.js"
         },	
-            "key": "drpy_js_快看",
+        {
+             "key": "drpy_js_快看",
             "name": "影视 | 快看[js]",
             "type": 3,
             "api": "./js/lib/drpy2.min.js",
