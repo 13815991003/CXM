@@ -1,7 +1,7 @@
 //
 
 {
-    "spider": "./spider.jar",
+    "spider": "./YSC.jar",
     "sites": [
         {
             "key": "drpy_js_360影视",
