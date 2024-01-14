@@ -4,40 +4,12 @@
     "spider": "./jar/spider.jar",
     "sites": [
         {
-            "key": "drpy_js_360影视",
-            "name": "官源 | 360[js]",
-            "type": 3,
-            "api": "./js/lib/drpy2.min.js",
-            "ext": "./js/360影视.js"
-        },
-        {
-            "key": "drpy_js_酷云七七",
-            "name": "影视 | 酷云七七[js]",
-            "type": 3,
-            "api": "./js/lib/drpy2.min.js",
-            "ext": "./js/酷云77.js"
-        },	
-        {
-             "key": "drpy_js_快看",
-            "name": "影视 | 快看[js]",
-            "type": 3,
-            "api": "./js/lib/drpy2.min.js",
-            "ext": "./js/快看.js"
-        },		
-        {
             "key": "drpy_js_奇珍异兽",
             "name": "官源 | 爱奇艺[js]",
             "type": 3,
             "api": "./js/lib/drpy2.min.js",
             "ext": "./js/奇珍异兽.js"
         },
-        {
-            "key": "drpy_js_在线之家",
-            "name": "影视 | 在线之家[js]",
-            "type": 3,
-            "api": "./js/lib/drpy2.min.js",
-            "ext": "./js/在线之家.js"
-        },		
         {
             "key": "drpy_js_优酷",
             "name": "官源 | 优酷[js]",
@@ -58,13 +30,6 @@
             "type": 3,
             "api": "./js/lib/drpy2.min.js",
             "ext": "./js/百忙无果.js"
-        },
-        {
-            "key": "drpy_js_菜狗",
-            "name": "官源 | 搜狗[js]",
-            "type": 3,
-            "api": "./js/lib/drpy2.min.js",
-            "ext": "./js/菜狗.js"
         }
     ],
     "lives": [
