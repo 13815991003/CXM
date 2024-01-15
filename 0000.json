@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "https://gitee.com/red-heartwood/tvbox/blob/master/jar/spider.jar",
+    "spider": "https://gitee.com/red-heartwood/tvbox/blob/master/jar/custom_spider.jar",
     "lives": [
         {
           "name": "本地live文件",
