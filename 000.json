@@ -2,7 +2,7 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "./jar/spider.jar",
-    "comment": "多路配置只有蜂蜜影视支持",
+    "comment": "支持",
     "lives": [
         {
             "name": "Yoursmile7",
@@ -1435,24 +1435,7 @@
             "hosts": [
                 "magnet"
             ],
-            "regex": [
-                "更多",
-                "请访问",
-                "example",
-                "社 區",
-                "x u u",
-                "最 新",
-                "更 新",
-                "社 区",
-                "有 趣",
-                "英皇体育",
-                "全中文AV在线",
-                "澳门皇冠赌场",
-                "哥哥快来",
-                "美女荷官"，            
-                "新片首发",
-                "UUE29"
-            ]
+            
         }
     ],
     "ijk": [
