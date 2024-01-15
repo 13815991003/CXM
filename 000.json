@@ -1479,18 +1479,8 @@
                 "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
             ]
-        },
-        {
-            "name": "磁力广告",
-            "hosts": [
-                "magnet"
-            ],
-            "regex": [
-                "更多",
-                "请访问"
-                
-            ]
         }
+
     ],
     "ijk": [
         {
