@@ -489,16 +489,6 @@
             "ext": "./json/高中课堂.json"
         },
         {
-            "key": "JS哔哩直播",
-            "name": "哔哩直播[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./js/哔哩直播.js"
-        },
-        {
             "key": "csp_XYQHiker_兔小贝",
             "name": "兔小贝(XYQH)",
             "type": 3,
@@ -1121,47 +1111,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "DRJS_虎牙",
-            "name": "虎牙直播(JS)",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/虎牙直播.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "csp_XYQHiker_虎牙直播",
-            "name": "🐯虎牙直播(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/虎牙直播.json"
-        },
-        {
-            "key": "csp_XYQHiker_斗鱼直播",
-            "name": "🐠斗鱼直播(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "./json/斗鱼直播.json"
-        },
-        {
-            "key": "csp_XYQBiu_网易CC直播",
-            "name": "🕸网易CC直播(XYQ)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./json/网易CC直播.json"
-        },
+        },        
         {
             "key": "csp_XYQBiu_骚火电影网",
             "name": "骚火电影网(XYQ)",
@@ -1492,7 +1442,6 @@
                 "社 區",
                 "x u u",
                 "最 新",
-                "直 播",
                 "更 新",
                 "社 区",
                 "有 趣",
@@ -1500,8 +1449,7 @@
                 "全中文AV在线",
                 "澳门皇冠赌场",
                 "哥哥快来",
-                "美女荷官",
-                "裸聊",
+                "美女荷官"，            
                 "新片首发",
                 "UUE29"
             ]
